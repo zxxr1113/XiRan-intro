@@ -7,7 +7,7 @@ subtitle: Undergraduate at UCAS
 profile:
   align: right
   image: prof_pic.jpg
-  image_circular: false # crops the image to make it circular
+  image_circular: true # crops the image to make it circular
   more_info: 
 
 selected_papers: false # includes a list of papers marked as "selected={true}"
@@ -36,22 +36,22 @@ I am actively looking for **Research Assistant** opportunities to work with PhD 
 
 ---
 
-### Experience
+### **Experience**
 I have a solid foundation in both computer systems and algorithms from my previous research internships:
 
 *   **Institute of Computing Technology, Chinese Academy of Sciences (ICT-CAS)**
-    *   *Research Intern | Hardware Architecture & Processor Design*
+    **Research Intern | Hardware Architecture & Processor Design**
     *   End-to-End CPU Design: Independently designed and implemented a high-performance CPU from scratch, including 7-stage pipeline, Cache, TLB almost all the technics in CPU design.
     *   Key Skills: Verilog/SystemVerilog, Computer Architecture, System-level Debugging.
 
 Key Skills: Verilog/SystemVerilog, Computer Architecture, System-level Debugging.
 *   **Institute of Software, Chinese Academy of Sciences (ISCAS)**
-    *   *Research Intern | Algorithmic Logic & EDA*
+    **Research Intern | Algorithmic Logic & EDA**
     *   Researched and implemented performance enhancements for SAT solvers, focusing on heuristic search and conflict-driven clause learning (CDCL).
         Also designed specialized algorithms for Electronic Design Automation (EDA).
     *   Key Skills: C++, Boolean Satisfiability (SAT), Mathematical Modeling.
 
-### Skills
+### **Skills**
 *   **Languages:** Python, C/C++, Verilog/SystemVerilog.
 *   **Math:** Linear Algebra, Probability, Discrete Math, Combinatorial math.
 *   **Tools:** Git, Linux, PyTorch.
