@@ -2,7 +2,7 @@
 # Site settings
 # -----------------------------------------------------------------------------
 
-title: My website # the website title (if blank, full name will be used instead)
+title: Xi Ran Zhao # the website title (if blank, full name will be used instead)
 first_name: Xi Ran
 middle_name: 
 last_name: Zhao
@@ -155,15 +155,15 @@ newsletter:
 
 collections:
   books:
-    output: true
+    output: false
   news:
     defaults:
       layout: post
-    output: true
+    output: false
   projects:
-    output: true
+    output: false
   teachings:
-    output: true
+    output: false
 
 # -----------------------------------------------------------------------------
 # Jekyll settings
