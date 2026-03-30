@@ -24,7 +24,7 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-I am an undergraduate student (Class of 2027) majoring in **Computer Science** at the **University of Chinese Academy of Sciences (UCAS)**. I am currently a **Visiting Student at UC Berkeley**, deeply interested in the intersection of **Large Language Models (LLMs)** and **Autonomous Agents**.
+I am an undergraduate student majoring in **Computer Science** at the **University of Chinese Academy of Sciences (UCAS)**. I am currently a **Visiting Student at UC Berkeley**, deeply interested in the intersection of **Large Language Models (LLMs)** and **Autonomous Agents**.
 
 My goal is to build intelligent agents that are not only capable of advanced reasoning but are also efficient and robust. I am particularly excited about:
 *   **LLM-based Agents:** Reasoning, planning, and tool-augmented generation.
@@ -41,7 +41,6 @@ I have a solid foundation in both computer systems and algorithms from my previo
     *   End-to-End CPU Design: Independently designed and implemented a high-performance CPU from scratch, including 7-stage pipeline, Cache, TLB almost all the technics in CPU design.
     *   Key Skills: Verilog/SystemVerilog, Computer Architecture, System-level Debugging.
 
-Key Skills: Verilog/SystemVerilog, Computer Architecture, System-level Debugging.
 *   **Institute of Software, Chinese Academy of Sciences (ISCAS)**
     **Research Intern | Algorithmic Logic & EDA**
     *   Researched and implemented performance enhancements for SAT solvers, focusing on heuristic search and conflict-driven clause learning (CDCL).
@@ -51,7 +50,7 @@ Key Skills: Verilog/SystemVerilog, Computer Architecture, System-level Debugging
 ### **Skills**
 *   **Languages:** Python, C/C++, Verilog/SystemVerilog.
 *   **Math:** Linear Algebra, Probability, Discrete Math, Combinatorial math.
-*   **Tools:** Git, Linux, PyTorch.
+*   **Tools:** Git, Linux, PyTorch, vivado.
 
 ---
 
