@@ -31,9 +31,6 @@ My goal is to build intelligent agents that are not only capable of advanced rea
 *   **System-AI Co-design:** Leveraging my hardware background to optimize AI agent performance.
 *   **Algorithmic Optimization:** Improving the efficiency of LLM inference and long-context management.
 
-### Seeking Research Opportunities
-I am actively looking for **Research Assistant** opportunities to work with PhD students or faculty at UC Berkeley through **2026**. Having previously interned at two of China's top research institutes, I am a self-driven researcher who can contribute effectively to ongoing projects in the Agentic AI space.
-
 ---
 
 ### **Experience**
